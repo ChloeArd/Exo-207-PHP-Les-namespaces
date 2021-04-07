@@ -8,3 +8,10 @@ class Role {
 
     }
 }
+
+/**
+ * @param $hello
+ */
+function hello($hello) {
+
+}
